@@ -1,8 +1,10 @@
 .venv/
+**/.venv/
 __pycache__/
+**/__pycache__/
 *.py[cod]
 .env
 .env.*
 !.env.example
-.sessions/
-.pr_sessions.json
+**/.sessions/
+**/.pr_sessions.json
