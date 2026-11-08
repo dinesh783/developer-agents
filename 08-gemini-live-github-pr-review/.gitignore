@@ -1,0 +1,7 @@
+.env
+.pr_sessions.json
+.pr_sessions.json.tmp
+.sessions/
+.compactions.log
+__pycache__/
+.venv/
